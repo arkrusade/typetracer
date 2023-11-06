@@ -1,0 +1,15 @@
+{
+  "name": "keyboard-tracker",
+  "version": "1.0.0",
+  "description": "track best and worst typing speeds",
+  "main": "main.js",
+  "scripts": {
+    "run": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.7.1"
+  }
+}
